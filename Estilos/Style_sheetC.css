@@ -7,11 +7,24 @@ h2 {
     font-size: x-large;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: relative;
-    left: 20;
+    left: 17px;
+}
+h3{
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position:relative;
+    left: 20px;
 }
 p {
     font-size: 17px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     position: relative;
     left: 60px;
+}
+body {
+    background-image: url(../Imagenes/FondoLC.png);
+}
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
 }
