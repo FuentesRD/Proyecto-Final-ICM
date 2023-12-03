@@ -4,7 +4,7 @@ table{
     border-collapse: collapse;
     background-color:#F4FCFE;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    width:90%;
+    width:85%;
 }
 th {
     border: 1px solid black;
@@ -25,7 +25,7 @@ p {
 }
 
 body {
-    background-image: url(../Imagenes/FondoA.png);
+    background-image: url(../Imagenes/FONDOL.png);
 }
 h1{
     font-family: Arial, Helvetica, sans-serif;
