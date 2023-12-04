@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font-size: xx-large;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+    padding-left: 90px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+}
+h3 {
+    font-size: 19px;
+}
+p {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
+}
+ul {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+body {
+    background-image: url(../Imagenes/FondoLD.png);
+}
+img {
+    padding-top: 15px;
+}
+.imagena {
+    padding-top: 15px;
+    width: 35%;
+}
