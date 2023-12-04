@@ -1,0 +1,95 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 60px;
+}
+h2 {
+    padding: 20px;
+    text-align: center;
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+    padding: 18px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-image: url(../Imagenes/INDEXA.png);
+}
+figcaption {
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.boton {
+    border: 3px solid #054274;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #9DCEF5;
+}
+.boton1 {
+    border: 3px solid #F27703;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #F6A04F;
+}
+.boton2 {
+    border: 3px solid #4D8710;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #9AD45D;
+}
+.boton3 {
+    border: 3px solid #76396E;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #C286BA;
+}
+.boton4 {
+    border: 3px solid #E3E612;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #F4F5A0;
+}
+.boton5 {
+    border: 3px solid #9B2B1F;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #E8786B;
+}
+.boton6 {
+    border: 3px solid #9F5A77;
+    padding: 14px 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+    display:inline-block;
+    border-radius: 28px;
+    background-color: #EBA6C4;
+}
